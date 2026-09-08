@@ -77,8 +77,8 @@ Un sistema de este tipo reduce el tiempo que el personal administrativo invierte
 | RF13 | El sistema debe permitir preguntar sobre todos los documentos del usuario | ✅ Implementado |
 | RF14 | El sistema debe responder "no encontró información suficiente" cuando corresponda | ✅ Implementado |
 | RF15 | El sistema debe registrar errores de procesamiento | ✅ Implementado |
-| RF16 | El sistema debe mostrar un dashboard con estadísticas | ⏳ Pendiente (Fase 9) |
-| RF17 | El sistema debe tener una interfaz web para todas las funciones anteriores | ⏳ Pendiente (Fases 7-8) |
+| RF16 | El sistema debe mostrar un dashboard con estadísticas | ✅ Implementado |
+| RF17 | El sistema debe tener una interfaz web para todas las funciones anteriores | ✅ Implementado |
 
 ## 8. Requisitos no funcionales
 
@@ -90,7 +90,7 @@ Un sistema de este tipo reduce el tiempo que el personal administrativo invierte
 | RNF4 | El sistema no debe inventar información al responder preguntas (RAG) | ✅ Implementado |
 | RNF5 | El sistema debe ser modular (separación de rutas, servicios, modelos, IA) | ✅ Implementado |
 | RNF6 | El sistema debe registrar el estado de procesamiento de cada documento | ✅ Implementado |
-| RNF7 | El sistema debe poder desplegarse en un servidor de producción | ⏳ Pendiente (Fase 11) |
+| RNF7 | El sistema debe poder desplegarse en un servidor de producción | ✅ Implementado |
 
 ## 9. Restricciones y supuestos
 
