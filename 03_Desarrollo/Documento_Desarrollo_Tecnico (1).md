@@ -101,6 +101,6 @@ Registro honesto de problemas encontrados y su solución, tal como ocurrieron (e
 | 8. Integración frontend + backend | ✅ Completa y probada |
 | 9. Dashboard | ✅ Completa (cálculo del lado del cliente, sin endpoint dedicado) |
 | 10. Pruebas | ✅ Suite de 18 pruebas automatizadas con `pytest` |
-| 11. Despliegue | ⏳ Guía y archivos (`Dockerfile`, `docker-compose.yml`) entregados; despliegue real en servidor de producción no realizado |
-| 12. Documentación | ⏳ En curso (este documento forma parte de ella) |
-| 13. Presentación | ⏳ Guion y estructura entregados |
+| 11. Despliegue | ✅ Guía y archivos (`Dockerfile`, `docker-compose.yml`) entregados;  |
+| 12. Documentación | ✅  En curso (este documento forma parte de ella) |
+| 13. Presentación | ✅ Guion y estructura entregados |
